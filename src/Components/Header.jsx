@@ -15,9 +15,9 @@ function Header(){
                     <li><a href="">Suporte</a></li>
                     <li><a href="">Contato</a></li> 
                 </ul>
-
-                <button>Abra uma conta</button>
             </nav>
+
+            <button>Abra uma conta</button>
         </header>
         </>
     )
