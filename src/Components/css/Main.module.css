@@ -1,11 +1,31 @@
 section{
-    background-color: #ff9e1b;
-    height: 628px;
+    background-color: #BFBFBF;
+    height: 688px;
 }
 
 .mulher{
-    right: 70px;
     position: absolute;
+    right: 70px;
+    top: 150px;
     width: 40%;
 }
 
+.borda{
+    position: absolute;
+    border: 3px solid #ff9e1b;
+    height: 566px;
+    border-radius: 17px;
+    width: 404px;
+    right: 200px;
+    top: 130px;
+}
+
+.icones{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.icones img{
+    width: 9%;
+    padding-top: 500px;
+}
