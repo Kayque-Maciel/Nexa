@@ -1,0 +1,27 @@
+#Contasec{
+    background-image: url(../images/empresario-de-baixo-angulo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+
+.Cadastro{
+    background-color: #fff;
+    height: 650px;
+    width: 500px;
+    color: #000;
+    text-align: center;
+
+}
+
+.Cadastrotitulo h3{
+    margin: 0;
+    font-size: 36px;
+    padding-top: 40px;
+    font-family: inter;
+}
+
+.Cadastro p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
