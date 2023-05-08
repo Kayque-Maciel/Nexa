@@ -9,11 +9,11 @@ function Header(){
             <img src={logo} alt="logo" id={style.logo}/>
             <nav className={style.navheader}>
                 <ul className={style.navlist}>
-                    <li><a href="">Início</a></li>
-                    <li><a href="">Cardápio</a></li>
-                    <li><a href="">Sobre Nós</a></li>
-                    <li><a href="">Suporte</a></li>
-                    <li><a href="">Contato</a></li> 
+                    <li><a href="">Conta</a></li>
+                    <li><a href="">Investimentos</a></li>
+                    <li><a href="">Benefícios</a></li>
+                    <li><a href="">Central de ajuda</a></li>
+                    <li><a href="">Sobre Nós</a></li> 
                 </ul>
             </nav>
 

@@ -11,8 +11,11 @@ function Cardsec(){
                     <img src={cardtras} alt="" className={style.cardtras}/>
                 </div>
                 
-                <div>
-                    <h2></h2>
+                <div className={style.cardinfo}>
+                    <h2>Peça já o CardNexa</h2>
+                    <p>O poder de comprar o que quiser, quando quiser. Desfrute de benefícios exclusivos e segurança em cada transação. Peça agora o seu!</p>
+
+                    <button className={style.btncard}>Solicitar cartão</button>
                 </div>
             </section>
         </>
