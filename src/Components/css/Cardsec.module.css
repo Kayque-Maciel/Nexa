@@ -1,0 +1,15 @@
+#cardsec{
+    background-color: #ff9e1b;
+}
+
+.cardimg{
+    padding-top: 40px;
+    padding-left: 60px;
+}
+
+.cardimg img{
+    margin-left: 10px;
+    border-radius: 10px;
+    rotate: 10deg;
+    width: 17%;
+}
