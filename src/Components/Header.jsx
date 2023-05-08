@@ -17,7 +17,7 @@ function Header(){
                 </ul>
             </nav>
 
-            <button>Abra uma conta</button>
+            <button className={style.btnheader}>Abra uma conta</button>
         </header>
         </>
     )

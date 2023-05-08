@@ -43,7 +43,7 @@ header{
     transform: scale(1.03);
 }
 
-button{
+.btnheader{
     height: 43px;
     width: 200px;
     border-radius: 10px;
@@ -57,7 +57,7 @@ button{
     transition: .3s;
 }
 
-button:hover{
+.btnheader:hover{
     transform: scale(1.07);
     background-color: #fff;
     color: #ff9e1b;

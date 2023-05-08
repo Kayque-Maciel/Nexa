@@ -10,9 +10,12 @@ function Main(){
     return(
         <>
         <section id={style.secao}>
-            <div>
-                
+            <div className={style.slogan}>
+                <h1>Juntos alcançando grandes alturas. Confiança, segurança e inovação em cada transação.</h1>
+
+                <button className={style.btnsec}>Abra sua conta já!</button>
             </div>
+
             <img src={mulher} alt="" className={style.mulher}/>
             <div className={style.borda}>
                 <div className={style.icones}>
