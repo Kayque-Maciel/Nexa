@@ -9,23 +9,16 @@ import Conta from "./Components/Conta";
 function App() {
   return (
     <>
-
       <Router>
         <Header />
             <Routes>
-              <Route path="/" element={<></>} />
-              <Route path="/Escocia" element={<></>} />
-              <Route path="/Grandcanyon" element={<></>} />
-              <Route path="/Muralhasdachina" element={<></>} />
-              <Route path="/Aruba" element={<></>} />
+              <Route path="/Conta" element={<Conta />} />
             </Routes>
       </Router>
 
     <Main />
 
     <Cardsec />
-
-    <Conta />
     </>
   );
 }

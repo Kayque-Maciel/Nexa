@@ -5,7 +5,7 @@
     height: 650px;
 }
 
-.Cadastro{
+.Formulario{
     background-color: #fff;
     height: 650px;
     width: 500px;
@@ -14,14 +14,45 @@
 
 }
 
-.Cadastrotitulo h3{
+.Formulariotitulo h3{
     margin: 0;
-    font-size: 36px;
-    padding-top: 40px;
+    font-size: 35px;
+    padding-top: 70px;
     font-family: inter;
 }
 
-.Cadastro p{
-    font-size: 20px;
+.Formulario p{
+    font-size: 19px;
     font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 50px;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login label{
+    padding-bottom: 10px;
+}
+
+.login input{
+    width: 340px;
+    height: 20px;
+    border-radius: 5px;
+    border: 0;
+    background-color: #f3f6ff;
+    padding: 10px;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+
+.cadastro p{
+    font-size: 17px;
+}
+
+.cadastro a{
+    color: #ff9e1b;
+
 }

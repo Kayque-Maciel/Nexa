@@ -17,16 +17,7 @@ function Main(){
             </div>
 
             <img src={mulher} alt="" className={style.mulher}/>
-            <div className={style.borda}>
-                <div className={style.icones}>
-                    <img src={dinheiro} alt="" />
-                    <img src={mao} alt="" />
-                    <img src={cofrinho} alt="" />
-                    <img src={pagamento} alt="" />
-                    <img src={acoes} alt="" />
-                </div>
-                
-            </div>
+           
         </section>
         </>
     )
