@@ -1,6 +1,16 @@
+Footer{
+    background-color: #12111f;
+    font-family: inter;
+}
+
 .InfoFooter{
     display: flex;
     justify-content: space-evenly;
+    padding-top: 50px;
+}
+
+.Links{
+    color: #fff;
 }
 
 .Links li{
@@ -10,4 +20,10 @@
     padding-bottom: 10px;
     transition: 1s;
     cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Links li:hover{
+    opacity: 80%;
+    transform: scale(1.03);
 }
