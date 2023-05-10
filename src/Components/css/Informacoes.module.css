@@ -1,16 +1,18 @@
 #Infosec{
     background-color: #fff;
     margin-top: 80px;
-    height: 6000px;
+    height:2200px;
 }
 
-.Piximg{
+.Esqimg{
     display: flex;
     justify-content: space-evenly;
+    margin-top: 180px;
 }
 
-.Piximg img{
+.Esqimg img{
     width: 40%;
+    height: 10%;
     border-top-left-radius: 800px;
     border-top-right-radius: 400px;
     border-bottom-left-radius: 100px;
@@ -44,15 +46,16 @@
     font-weight: 500;
 }
 
-.Segimg{
+.Dirimg{
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-evenly;
-    margin-top: 250px;
+    margin-top: 180px;
 }
 
-.Segimg img{
+.Dirimg img{
     width: 40%;
+    height: 10%;
     border-top-left-radius: 400px;
     border-top-right-radius: 800px;
     border-bottom-left-radius: 200px;
