@@ -48,6 +48,26 @@
     margin-bottom: 30px;
 }
 
+.btncadastro{
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ff9e1b;
+    color: #ff9e1b;
+    font-family: inter;
+    font-size: 16px;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.btncadastro:hover{
+    transform: scale(1.07);
+    background-color: #ff9e1b;
+    color: #fff;
+}
+
 .cadastro p{
     font-size: 17px;
 }

@@ -21,6 +21,8 @@ function Conta(){
                         <input id="data_login" name="data_login" type="text" placeholder="Digite sua data de nascimento"/>
                     </div>
 
+                    <button className={style.btncadastro}>Acessar</button>
+
                     <div className={style.cadastro}>
                         <p>Ainda não possui conta? <a href="#">Cadastre-se</a></p>
                     </div>

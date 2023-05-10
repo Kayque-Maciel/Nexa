@@ -1,0 +1,46 @@
+#Cashsec{
+    background-color: #fff;
+    text-align: center;
+    font-family: inter;
+    height: 380px;
+}
+
+.Infocash{
+    color: #ff9e1b;
+}
+
+.Infocash h1{
+    font-size: 32px;
+    margin: 0;
+    margin-top: 70px;
+}
+
+span{
+    opacity: 90%;
+}
+
+.Infocash h2{
+    font-size: 98px;
+    margin: 0;
+    margin-top: 20px;
+}
+
+.btncash{
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+    margin-top: 25px;
+    background-color: #ff9e1b;
+    border: none;
+    color: #fff;
+    font-family: inter;
+    font-size: 16px;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.btncash:hover{
+    transform: scale(1.07);
+    background-color: #fff;
+    color: #ff9e1b;
+}
