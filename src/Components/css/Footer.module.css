@@ -1,0 +1,13 @@
+.InfoFooter{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Links li{
+    font-weight: 300;
+    font-size: 14px;
+    list-style: none;
+    padding-bottom: 10px;
+    transition: 1s;
+    cursor: pointer;
+}
